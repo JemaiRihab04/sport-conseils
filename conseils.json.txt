@@ -1,0 +1,12 @@
+[
+  "Chaque effort te rapproche de ton but.",
+  "Tu as la force en toi, révèle-la !",
+  "Le sport est ton super-pouvoir quotidien.",
+  "Une séance à la fois, tu progresses.",
+  "Ton énergie grandit avec chaque mouvement.",
+  "Sois fier de toi aujourd'hui.",
+  "La confiance vient avec l'action.",
+  "Ton corps mérite ce soin quotidien.",
+  "Rien ne peut arrêter ta détermination.",
+  "Le meilleur moment pour commencer, c'est maintenant."
+]
