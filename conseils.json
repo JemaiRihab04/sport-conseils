@@ -1,12 +1,12 @@
 [
-  "Chaque effort te rapproche de ton but.",
-  "Tu as la force en toi, révèle-la !",
-  "Le sport est ton super-pouvoir quotidien.",
-  "Une séance à la fois, tu progresses.",
-  "Ton énergie grandit avec chaque mouvement.",
-  "Sois fier de toi aujourd'hui.",
-  "La confiance vient avec l'action.",
-  "Ton corps mérite ce soin quotidien.",
-  "Rien ne peut arrêter ta détermination.",
-  "Le meilleur moment pour commencer, c'est maintenant."
+  {"slip": {"id": 1, "advice": "Chaque effort te rapproche de ton but."}},
+  {"slip": {"id": 2, "advice": "Tu as la force en toi, révèle-la !"}},
+  {"slip": {"id": 3, "advice": "Le sport est ton super-pouvoir quotidien."}},
+  {"slip": {"id": 4, "advice": "Une séance à la fois, tu progresses."}},
+  {"slip": {"id": 5, "advice": "Ton énergie grandit avec chaque mouvement."}},
+  {"slip": {"id": 6, "advice": "Sois fier de toi aujourd'hui."}},
+  {"slip": {"id": 7, "advice": "La confiance vient avec l'action."}},
+  {"slip": {"id": 8, "advice": "Ton corps mérite ce soin quotidien."}},
+  {"slip": {"id": 9, "advice": "Rien ne peut arrêter ta détermination."}},
+  {"slip": {"id": 10, "advice": "Le meilleur moment pour commencer, c'est maintenant."}}
 ]
